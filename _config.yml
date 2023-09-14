@@ -18,7 +18,7 @@ linkedin_username: "happygoat"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "just-the-docs"
+theme: minima
 
 rss: rss
 
