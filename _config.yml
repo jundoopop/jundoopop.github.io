@@ -1,4 +1,4 @@
-title: "Logs of 권준혁 / Joon Joonhyeok Kwon"
+title: "Logging, Reporting, Writing and Polishing"
 author: "Joon Joonhyeok Kwon"
 description: "Blog of Joon Joonhyeok Kwon." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
@@ -18,7 +18,7 @@ linkedin_username: "happygoat"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima"
+theme: "just-the-docs"
 
 rss: rss
 

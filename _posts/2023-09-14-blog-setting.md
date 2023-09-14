@@ -19,10 +19,3 @@ This is a sample blog post. You can talk about all sorts of fun things here. ---
 2. To be used to markdown syntax is essential. It's simple. Additionally, I started to use Obsidian, which uses markdown.
 
 3. See you again!
-
-# There are many other languages you can use, but the style has to be loaded first
-
-ForEach ($thing in $things) {
-    Write-Output "It highlights it using the GitHub style"
-}
-```
