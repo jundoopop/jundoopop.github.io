@@ -1,0 +1,28 @@
+---
+layout: post
+title: Greedy Algorithm
+description: Any Feedbacks Are Welcomed.
+date: 2023-12-08 08:08:08 +0900
+tags: greedy-algorithm algorithm
+---
+
+#### ❗ Please mail If I Wrote Something Wrong ❗
+##### Send to: <jundolpop@gmail.com> 📧
+
+### Source 1 - Introduction to Algorithms, Fourth Edition [by MIT Press](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
+
+Greedy algorithm is usually a good choice for dynamic programming or optimisation problems. It's simple, covers a wide range of problems.
+
+Minimum-spanning-tree (MST) algorithms, Dijkstra's algorithm for shortest paths, and a greedy set-covering heruistic are the applications of greedy algorithms.
+
+Like I said at former, you should prerequisite dynamic programming.
+
+Let me introduce the cases;
+
+1. Simple and non-trivial problem
+2. Basic elements of the greedy approach
+3. Important application of greedy techniques
+4. Problem case: Which blocks to replace when a miss occurs in a cache
+
+### Activity-selection Problem - Simple, but important
+
