@@ -2,8 +2,8 @@
 layout: post
 title: Discussing About Controller
 description: Example With Express.js
-date: 2023-12-02 08:08:08 +0900
-tags: node.js express.js javascript
+date: 2123-12-02 08:08:08 +0900
+tags: node.js
 ---
 
 #### Routes receive HTTP Request, and controllers get them and response to HTML.
