@@ -6,6 +6,8 @@ date: 2024-03-21 20:20:00 +0900
 tags: unreal
 ---
 
+# Unreal Basic Glossary
+
 ### Levels ([Source](https://dev.epicgames.com/documentation/en-us/unreal-engine/levels-in-unreal-engine))
 
 You can think of a level as a 3D environment into which you place a series of objects and geometry to define the world your players will experience ([link](https://dev.epicgames.com/documentation/en-us/unreal-engine/level-editor-in-unreal-engine#:~:text=You%20can%20think%20of%20a%20level%20as%20a%203D%20environment%20into%20which%20you%20place%20a%20series%20of%20objects%20and%20geometry%20to%20define%20the%20world%20your%20players%20will%20experience.)). Thus, it is part of the *game's world*.
