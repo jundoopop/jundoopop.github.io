@@ -3,7 +3,7 @@ layout: post
 title: Dynamic Programming
 description: Any Feedbacks Are Welcomed.
 date: 2023-12-08 08:08:08 +0900
-tags: dynamic-programming algorithm
+tags: algorithm
 ---
 
 #### ❗ Please mail If I Wrote Something Wrong ❗

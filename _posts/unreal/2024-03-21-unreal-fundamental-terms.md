@@ -2,7 +2,7 @@
 layout: post
 title: Unreal Fundamental Terms
 description: Unreal first step, understand the basic elements.
-date: 2024-03-22 20:20:20 +0900
+date: 2024-03-21 20:20:00 +0900
 tags: unreal
 ---
 
